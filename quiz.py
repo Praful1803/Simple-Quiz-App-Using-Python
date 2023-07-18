@@ -17,7 +17,7 @@ quiz = {
   },
   "question5":{
     "question": "what is the capital of germany ?",
-    "answer": "italy"
+    "answer": "berlin"
   },
     "question6":{
     "question": "what is the capital of pakistan ?",
